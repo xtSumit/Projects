@@ -19,6 +19,7 @@ In this project i've created a model that predicts home prices in different regi
 These are results i get after building these models. Here Linear Regression gives better accuracy than other algorithms.
 
 #Requirements
+
 1.Numpy  
 2.Pandas for loading dataset and perform various tasks like EDA, data cleaning, feature engineering.  
 3.Matplotlib for visualisation  
