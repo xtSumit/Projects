@@ -15,6 +15,7 @@ I tried three different algorithms to build the model.
 3.Lasso Regression
 
 ![bangluru_models](https://user-images.githubusercontent.com/60252526/110582870-afe73080-8121-11eb-877b-aab4a7b616ed.PNG)
+
 These are results i get after building these models. Here Linear Regression gives better accuracy than other algorithms.
 
 #Requirements
@@ -25,6 +26,7 @@ These are results i get after building these models. Here Linear Regression give
 5.Flask to build python flask server and run webpages on home directory.
 
 #Tools used
+
 1.Python
 2.Jupyter Notebook
 3.Pycharm IDE
