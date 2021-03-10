@@ -11,7 +11,7 @@ I've used different approches to train the model. A simple convolution network w
 Convolutional Network vs Pre-trained Architecture (MobileNet)
 
 
-COVNET loss:                                                                                                              MobileNet loss: 
+COVNET loss:                                                                                                           MobileNet loss:                                                                                                        
 
 ![covnet_loss](https://user-images.githubusercontent.com/60252526/110667695-5f062500-817f-11eb-9cca-8f38b18cde66.png)  ![mobilenet_loss](https://user-images.githubusercontent.com/60252526/110667734-688f8d00-817f-11eb-90bf-3b22d7297200.png)
 
