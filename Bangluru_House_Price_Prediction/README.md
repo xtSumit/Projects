@@ -9,6 +9,7 @@ In this project i've created a model that predicts home prices in different regi
 4.Bathroom 
   
 #Algorithms used to build the model.
+
 1.Linear Regression 
 2.Decision Tree   				
 3.LASSO Regression 
