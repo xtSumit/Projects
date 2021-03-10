@@ -4,10 +4,9 @@ This is a project based on Bangluru House Price Prediction.
 In this project i've created a model that predicts home prices in different regions in Bangluru. The model predicts prices based on:
 
 1.Bedroom/Hall/kitchen(BHK) 
-2.Bathroom
-3.Location
-4.Area (sqft)
-
+2.Location
+3.Area (sqft)
+4.Bathroom
 
 I tried three different algorithms to build the model.
 1.Linear Regression
