@@ -17,7 +17,8 @@ COVNET loss:
 
 
 
-MobileNet loss: ![mobilenet_loss](https://user-images.githubusercontent.com/60252526/110667734-688f8d00-817f-11eb-90bf-3b22d7297200.png)
+MobileNet loss: 
+![mobilenet_loss](https://user-images.githubusercontent.com/60252526/110667734-688f8d00-817f-11eb-90bf-3b22d7297200.png)
 
 
 
