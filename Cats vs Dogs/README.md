@@ -3,7 +3,7 @@ Dataset composition: 1. training set = 20000
                      2. validation set = 3000
                      3. validation set = 2000
                      
-I've used different approches to train the model. A simple convolution network with 3 layers and 1 fully connected layer which gives accuracy of 89.97% on validation set and 88.70% on test set. Then i trained another model with pre-trained architecture (MobileNet) which gives accuracy of 97.76 on validation set and 97.95% on test set.
+I've used different approches to train the model. A simple convolution network with 3 layers, 1 fully connected layer and a output layer which gives accuracy of 89.97% on validation set and 88.70% on test set. Then i trained another model with pre-trained architecture (MobileNet) which gives accuracy of 97.76 on validation set and 97.95% on test set.
 
 
 #GRAPH
