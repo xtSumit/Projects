@@ -1,4 +1,4 @@
-This is a project based on Bangluru House Price Prediction.
+This is a project based on Bangaluru House Price Prediction.
 
 ![webLayout](https://user-images.githubusercontent.com/60252526/110582199-b32dec80-8120-11eb-9080-5468a8219606.PNG)
 In this project i've created a model that predicts home prices in different regions in Bangluru. The model predicts prices based on:
@@ -9,7 +9,6 @@ In this project i've created a model that predicts home prices in different regi
 4.Bathroom 
   
 #Algorithms used to build the model.
-
 1.Linear Regression 
 2.Decision Tree   				
 3.LASSO Regression 
@@ -22,7 +21,7 @@ These are results i get after building these models. Here Linear Regression give
 
 1.Numpy  
 2.Pandas for loading dataset and perform various tasks like EDA, data cleaning, feature engineering.  
-3.Matplotlib for visualisation  
+3.Matplotlib for visualisation.  
 4.Sklearn to create model and compare model accuracy.
 5.Flask to build python flask server and run webpages on home directory.
 
@@ -35,6 +34,7 @@ These are results i get after building these models. Here Linear Regression give
 3.Pycharm IDE
 4.Visual Studio Code
 5.HTML/CSS/JS 
+
 
 #Reference
 CODEBASICS(Dhaval Patel)
