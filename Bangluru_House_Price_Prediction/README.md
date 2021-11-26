@@ -1,4 +1,4 @@
-This is a project based on Bangaluru House Price Prediction.
+This is a project based on Bengaluru House Price Prediction.
 
 ![webLayout](https://user-images.githubusercontent.com/60252526/110582199-b32dec80-8120-11eb-9080-5468a8219606.PNG)
 In this project i've created a model that predicts home prices in different regions in Bangluru. The model predicts prices based on:
